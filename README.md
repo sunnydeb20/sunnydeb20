@@ -34,8 +34,6 @@ suchetasarkar0120@gmail.com
 
 ## Github stats 
 
-![suchetasarkar20's Stats](https://github-readme-stats.vercel.app/api?username=suchetasarkar20&theme=default&show_icons=true&hide_border=false&count_private=false)
-
-![suchetasarkar20's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suchetasarkar20&theme=default&hide_border=false)
-
-![suchetasarkar20's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suchetasarkar20&theme=default&show_icons=true&hide_border=false&layout=compact)
+![sunnydeb20's Stats](https://github-readme-stats.vercel.app/api?username=sunnydeb20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sunnydeb20's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnydeb20&theme=vue-dark&hide_border=true)
+![sunnydeb20's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnydeb20&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
