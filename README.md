@@ -10,7 +10,7 @@ Front-End Developer | Passionate about Crafting Responsive and Intuitive Interfa
 🔍 Looking to collaborate on innovative projects that challenge my skills and contribute to meaningful solutions.
 
 📫 Feel free to reach out for collaborations or to connect!
-suchetasarkar0120@gmail.com
+sunnydeb0404@gmail.com
 
 
 
@@ -28,7 +28,7 @@ suchetasarkar0120@gmail.com
 ## Connect with me:
 <p align="left">
  
-  <a href="https://www.instagram.com/insta__sunny?igsh=MWoyMm41OTMwMGhiZg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
   <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   
 
